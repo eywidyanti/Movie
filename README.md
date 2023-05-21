@@ -8,6 +8,7 @@ Tampilan Awal
 
 ![awal](img/awal.jpg)
 
+
 Detail
 ![isi](img/isi.jpg)
 
